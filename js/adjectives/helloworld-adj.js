@@ -3,6 +3,6 @@ adjectives = adjectives.concat([
     'moody',
     'feisty',
     'korean',
-    'frustrated';
+    'frustrated',
     'determined'
 ]);
